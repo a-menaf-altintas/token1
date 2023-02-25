@@ -1,1 +1,2 @@
 some text for text2
+some text created in local for text2
